@@ -1,3 +1,5 @@
+#Kısa Paragraf Oluşturucu Macallanthroot 
+
 def main():
     while True:
         name = input("Enter a name: ").title()
@@ -20,3 +22,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+    
+    #Tüm sosyal medya adreslerime https://beacons.ai/macallantheroot 'den ulaşabilirsiniz.
